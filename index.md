@@ -1,4 +1,15 @@
+# Jace Bahls' First CS193 Homework
 ## Welcome to GitHub Pages
+
+### <ins>**Favorite Things about CS 193**</ins>
+- Taught by students
+- Silly jokes
+
+`print("yo")`
+
+
+
+## Formatting things
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
